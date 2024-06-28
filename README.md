@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArpitCodeHub
 - 👀 I’m interested in Coding and Web Development.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m done with HTML, CSS & BootStrap and currently learning JavaScript.
 - 💞️ I’m looking to collaborate with a webdev enthusiast.
 - 📫 How to reach me : ajarpit0705@gmail.com or whatsapp : 9891626613
 <!---
