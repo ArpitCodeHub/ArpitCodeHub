@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ArpitCodeHub
-- 👀 I’m interested in Coding and Web Development.
-- 🌱 I’m done with HTML, CSS, BootStrap and JavaScript.
-- 💞️ I’m looking to collaborate with a webdev enthusiast.
+- 👀 I’m interested in Coding and Web Development
+- 💻 Tech Stack :-
+ HTML, CSS, BootStrap, JavaScript, Tailwind CSS
+- 🌱 Learning React.js
+- 💞️ I’m looking to collaborate with a webdev enthusiast
 - 📫 How to reach me : ajarpit0705@gmail.com or whatsapp : 9891626613
 <!---
 ArpitCodeHub/ArpitCodeHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
