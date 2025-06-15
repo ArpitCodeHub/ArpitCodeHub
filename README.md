@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArpitCodeHub
+- 👋 Hi, I’m Arpit Jain.
 - 👀 Another Tech-Enthusiast  interested in Coding and Web Development
 - 💻 Tech Stack : HTML, CSS, BootStrap, JavaScript, Tailwind CSS, React.js, Python, SQLite
 - 🌱 Learning Django.
